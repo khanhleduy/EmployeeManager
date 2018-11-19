@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatDoYouMean</string>
+    <!--Splash-->
+    <string name="splash_text">Manager Emplyoee</string>
+
+    <!--User-->
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <string name="remember">Remeber me?</string>
+    <string name="Login">Login</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ForgetPassword">Forget Password?</string>
+
+
+</resources>
